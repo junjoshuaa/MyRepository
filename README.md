@@ -1,12 +1,12 @@
 # 📖 My Repository
 
 ## 🚀 Live Demo
-- [Live Demo](https://aboutjunjoshua.vercel.app/)
-- [Live Demo](https://joshbot.vercel.app/)
-- [Live Demo](https://yesornoboyversionbyjunjoshua.vercel.app/)
-- [Live Demo](https://yesornogirlversionbyjunjoshua.vercel.app/)
-- [Live Demo](https://junjoshua.vercel.app/)
-- [Live Demo](https://github.com/junjoshuaa/JunJoshuaa)
+- [Josh Bot](https://joshbot.vercel.app/)
+- [About Jun Joshua](https://aboutjunjoshua.vercel.app/)
+- [Jun Joshua Personal Website](https://junjoshua.vercel.app/)
+- [Jun Joshua Read Me](https://github.com/junjoshuaa/JunJoshuaa)
+- [Yes Or No (Boy Version)](https://yesornoboyversionbyjunjoshua.vercel.app/)
+- [Yes Or No (Girl Version)](https://yesornogirlversionbyjunjoshua.vercel.app/)
 
 ## 👤 Author
 <p align="left">
