@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 - [Josh Bot](https://joshbot.vercel.app/)
-- [About Jun Joshua](https://aboutjunjoshua.vercel.app/)
+- [About Jun Joshua](https://junjoshuaaboutme.vercel.app/)
 - [Jun Joshua Read Me](https://github.com/junjoshuaa/JunJoshuaa)
 - [Yes Or No (Boy Version)](https://yesornoboyversionbyjunjoshua.vercel.app/)
 - [Yes Or No (Girl Version)](https://yesornogirlversionbyjunjoshua.vercel.app/)
